@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @radharamanaa
+- 👋 Hi, I’m Abhijeet Mishra
 - 👀 I’m interested in spring framework
 - 🌱 I’m currently learning thymeleaf
 - 💞️ I’m looking to collaborate on spring web apps or standalone
