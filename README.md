@@ -1,6 +1,6 @@
 ## About me
 
-#React Redux-toolkit, Tailwind CSS Projects:
+## React Redux-toolkit, Tailwind CSS Projects:
 
 https://radharamanaa.github.io/Tasky-Redux/ - Made on Redux toolkit, Latest project.,<br/>
 https://radharamanaa.github.io/Simple-Tasky-Profile/ - little old 6 months ago
