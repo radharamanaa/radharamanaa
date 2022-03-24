@@ -3,7 +3,7 @@
 ## React Redux-toolkit, Tailwind CSS Projects:
 
 https://radharamanaa.github.io/Tasky-Redux/ - Made on Redux toolkit, Latest project.,<br/>
-https://radharamanaa.github.io/Simple-Tasky-Profile/ - little old 6 months ago
+https://radharamanaa.github.io/Simple-Tasky-Profile/ - only React, little old 6 months ago
 
 ## Plain Javascript:
 https://radharamanaa.github.io/RestaurantApp/ <br/>
