@@ -5,7 +5,7 @@
 https://radharamanaa.github.io/Tasky-Redux/ - Made on Redux toolkit, Latest project.,<br/>
 https://radharamanaa.github.io/Simple-Tasky-Profile/ - only React, little old 6 months ago
 
-##Simple carousal
+##Simple carousal:
 https://radharamanaa.github.io/SimpleCarousal/ - 11 May 2022
 
 ## Plain Javascript:
