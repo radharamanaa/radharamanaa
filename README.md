@@ -11,20 +11,15 @@ https://radharamanaa.github.io/Tasky-Redux/
 # Finance App Landing Page
 https://radharamanaa.github.io/Duitku-Finance-Sample-Design/
 
-### This app is a landing page for an amazing finance app
-
-
-## Simple Tasking
-
-https://radharamanaa.github.io/Simple-Tasky-Profile/ 
-
-### This app is a simple Tasking application as i was getting started in React Technologies
+### This above app is a landing page for an amazing finance app
 
 ## Simple carousal:
 https://radharamanaa.github.io/SimpleCarousal/ - 11 May 2022
 
 ## Plain Javascript:
-https://radharamanaa.github.io/RestaurantApp/ <br/>
+https://radharamanaa.github.io/RestaurantApp/ 
+
+
 ## Cypress Testing:
 https://github.com/radharamanaa/Cypress-Amazon-Example </br>
 https://github.com/radharamanaa/Cypress-todoist-EndToEnd </br>
