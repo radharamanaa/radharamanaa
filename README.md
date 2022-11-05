@@ -1,9 +1,24 @@
 ## About me
 
-# React Redux-toolkit, Tailwind CSS Projects:
+# Reminder App - A React-Redux Project:
 
-https://radharamanaa.github.io/Tasky-Redux/ - Made on Redux toolkit, Latest project.,<br/>
-https://radharamanaa.github.io/Simple-Tasky-Profile/ - only React, little old 6 months ago
+https://radharamanaa.github.io/Tasky-Redux/
+
+### This project is a reminder app in which the user can set reminders for tasks and the app shows the countdown for each reminder. User is able to add, delete, create,edit and filter reminders according to categories. 
+
+### This app was made using ReactJS, Redux, HTML,CSS and Javascript technologies.
+
+# Finance App Landing Page
+https://radharamanaa.github.io/Duitku-Finance-Sample-Design/
+
+### This app is a landing page for an amazing finance app
+
+
+## Simple Tasking
+
+https://radharamanaa.github.io/Simple-Tasky-Profile/ 
+
+### This app is a simple Tasking application as i was getting started in React Technologies
 
 ## Simple carousal:
 https://radharamanaa.github.io/SimpleCarousal/ - 11 May 2022
