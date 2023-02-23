@@ -4,9 +4,9 @@
 
 https://radharamanaa.github.io/Tasky-Redux/
 
-## This project is a reminder app in which the user can set reminders for tasks and the app shows the countdown for each reminder. User is able to add, delete, create,edit and filter reminders according to categories. 
+#### This project is a reminder app in which the user can set reminders for tasks and the app shows the countdown for each reminder. User is able to add, delete, create,edit and filter reminders according to categories. 
 
-### This app was made using ReactJS, Redux, HTML,CSS and Javascript technologies.
+#### This app was made using ReactJS, Redux, HTML,CSS and Javascript technologies.
 
 # Finance App Landing Page
 https://radharamanaa.github.io/Duitku-Finance-Sample-Design/
