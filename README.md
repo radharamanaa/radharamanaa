@@ -6,6 +6,11 @@ https://radharamanaa.github.io/portfoliio-fullstack/
 
 Repo - https://github.com/radharamanaa/portfoliio-fullstack
 
+# Finance App Landing Page
+https://radharamanaa.github.io/Duitku-Finance-Sample-Design/
+
+### This above app is a landing page for an amazing finance app
+
 # Reminder App - A React-Redux Project:
 
 https://radharamanaa.github.io/Tasky-Redux/
@@ -14,10 +19,7 @@ https://radharamanaa.github.io/Tasky-Redux/
 
 #### This app was made using ReactJS, Redux, HTML,CSS and Javascript technologies.
 
-# Finance App Landing Page
-https://radharamanaa.github.io/Duitku-Finance-Sample-Design/
 
-### This above app is a landing page for an amazing finance app
 
 ## Simple carousal:
 https://radharamanaa.github.io/SimpleCarousal/ - 11 May 2022
