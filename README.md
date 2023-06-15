@@ -1,5 +1,11 @@
 ## About me
 
+# Portfolio Project developed in typescript, ReactJs, React-Router and tailwind CSS
+
+https://radharamanaa.github.io/portfoliio-fullstack/
+
+Repo - https://github.com/radharamanaa/portfoliio-fullstack
+
 # Reminder App - A React-Redux Project:
 
 https://radharamanaa.github.io/Tasky-Redux/
