@@ -1,5 +1,14 @@
 ## About me
 
+8+ yrs of Experience in Software development, Architecture and Team leadership, with AWS developer
+certification, driven projects to success at ValueLabs and Zemoso Technologies, by designing fault tolerant and
+scalable systems. Expertise in Java, Spring Boot, Databases and fostering collaboration, led to significant
+improvements in app responsiveness and stability.
+
+# Get started with Multi Container Docker App 
+Clone the below repo and simply run "docker compose up -d" and do Get request on localhost:8080/user to get 200 Response!
+https://github.com/radharamanaa/Eureka-SpringBoot-Docker.git
+
 # Portfolio Project developed in typescript, ReactJs, React-Router and tailwind CSS
 
 https://radharamanaa.github.io/portfoliio-fullstack/
