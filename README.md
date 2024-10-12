@@ -11,7 +11,7 @@ https://github.com/radharamanaa/Eureka-SpringBoot-Docker.git
 
 # Portfolio Project developed in typescript, ReactJs, React-Router and tailwind CSS
 
-https://radharamanaa.github.io/portfoliio-fullstack/
+https://abhijeettheengineer.com
 
 Repo - https://github.com/radharamanaa/portfoliio-fullstack
 
